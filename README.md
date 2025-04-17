@@ -1,1 +1,1 @@
-## Flutter and Datter
+## A group initiative to make the lives of students of VIT Bhopal better!
